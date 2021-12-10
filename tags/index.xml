@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Who we are!</title>
-    <link>https://spritlesoftware.github.io/our-website/tags/</link>
+    <link>https://beta.spritle.com/tags/</link>
     <description>Recent content in Tags on Who we are!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright> © {year} Spritle Software. All Rights Reserved.</copyright><atom:link href="https://spritlesoftware.github.io/our-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright> © {year} Spritle Software. All Rights Reserved.</copyright><atom:link href="https://beta.spritle.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
