@@ -225,6 +225,15 @@
     </item>
     
     <item>
+      <title>Latest News</title>
+      <link>https://beta.spritle.com/latest_news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.spritle.com/latest_news/</guid>
+      <description>Please check our social media links for all latest news. We will soon aggregate them and show it here </description>
+    </item>
+    
+    <item>
       <title>Minoot</title>
       <link>https://beta.spritle.com/products/minoot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
