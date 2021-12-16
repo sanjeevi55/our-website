@@ -8,21 +8,58 @@
     <language>en-us</language>
     <copyright> © {year} Spritle Software. All Rights Reserved.</copyright><atom:link href="https://beta.spritle.com/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Frontend Developer</title>
-      <link>https://beta.spritle.com/career/frontend/</link>
+      <title>BA cum DM Executive</title>
+      <link>https://beta.spritle.com/career/ba_cum_dm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.spritle.com/career/frontend/</guid>
-      <description>About job  We&amp;rsquo;re looking for a Frontend Engineer to join our growing team.</description>
+      <guid>https://beta.spritle.com/career/ba_cum_dm/</guid>
+      <description>Experience: 0 to 1 years Job Location: Chennai Job Description About Spritle: Exciting handcrafted software for handsfree business operations  At Spritle, we build software with top-notch technologies to give solutions for various business problems.</description>
     </item>
     
     <item>
-      <title>Full-Stack Developer</title>
-      <link>https://beta.spritle.com/career/fullstack/</link>
+      <title>Business Analyst (Fresher)</title>
+      <link>https://beta.spritle.com/career/business_analyst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://beta.spritle.com/career/fullstack/</guid>
-      <description>About job  We are hiring Full Stack Developers who are passionate, self-driven and capable of working in both front end and backend technologies.</description>
+      <guid>https://beta.spritle.com/career/business_analyst/</guid>
+      <description>Job Description About the role:  We are looking for a Business Analyst who is good in analytical, logical reasoning &amp;amp; communication skills.</description>
+    </item>
+    
+    <item>
+      <title>Django Full Stack Developer</title>
+      <link>https://beta.spritle.com/career/django_fullstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.spritle.com/career/django_fullstack/</guid>
+      <description>Job Description  We are hiring Full Stack Developers who are passionate, self-driven and capable of working in both frontend and backend technologies.</description>
+    </item>
+    
+    <item>
+      <title>Node Js Developer</title>
+      <link>https://beta.spritle.com/career/node_js_developer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.spritle.com/career/node_js_developer/</guid>
+      <description>Job Description  Are you an aspiring Node.js Developer who is also good with Frontend and looking for an opportunity to work in a great team and advance your skills?</description>
+    </item>
+    
+    <item>
+      <title>Quality Analyst (Fresher)</title>
+      <link>https://beta.spritle.com/career/qa_fresher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.spritle.com/career/qa_fresher/</guid>
+      <description>​
+Job Description  We are looking for a passionate Software tester who has a natural flair for solving complex problems and making life easier for others.</description>
+    </item>
+    
+    <item>
+      <title>React js Developer</title>
+      <link>https://beta.spritle.com/career/reactjs_developer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.spritle.com/career/reactjs_developer/</guid>
+      <description>Job Description  We are looking for a 3 - 4 years experienced JavaScript developer who is proficient with React.</description>
     </item>
     
     <item>
@@ -35,12 +72,32 @@
     </item>
     
     <item>
+      <title>Ruby on Rails Developer</title>
+      <link>https://beta.spritle.com/career/ruby_on_rails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.spritle.com/career/ruby_on_rails/</guid>
+      <description>​
+Experience : 3 - 6 years Job Description  We are looking for 3+ years of experience candidates in Ruby on Rails.</description>
+    </item>
+    
+    <item>
       <title>Software tester</title>
       <link>https://beta.spritle.com/career/softwaretester/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://beta.spritle.com/career/softwaretester/</guid>
       <description>About job  We are looking for a passionate Software tester who has a natural flair for solving complex problems and making life easier for others.</description>
+    </item>
+    
+    <item>
+      <title>Web Developer (Fresher)</title>
+      <link>https://beta.spritle.com/career/web_developer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.spritle.com/career/web_developer/</guid>
+      <description>Urgently hiring Freshers eligible | 0-1 Years experience preferred
+Must do - Solve the aptitude challenge once applied.</description>
     </item>
     
   </channel>
