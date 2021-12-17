@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Spritle Software |  Advanced Web &amp; Mobile Solutions</title>
-    <link>https://beta.spritle.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Spritle Software |  Advanced Web &amp; Mobile Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> © {year} Spritle Software. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://beta.spritle.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>science</title>
-      <link>https://beta.spritle.com/categories/science/</link>
+      <link>/categories/science/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://beta.spritle.com/categories/science/</guid>
+      <guid>/categories/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>https://beta.spritle.com/categories/technology/</link>
+      <link>/categories/technology/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://beta.spritle.com/categories/technology/</guid>
+      <guid>/categories/technology/</guid>
       <description></description>
     </item>
     

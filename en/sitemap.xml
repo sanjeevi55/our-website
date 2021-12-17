@@ -2,191 +2,191 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beta.spritle.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://beta.spritle.com/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://beta.spritle.com/"
+                href="/"
                 />
   </url><url>
-    <loc>https://beta.spritle.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://beta.spritle.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://beta.spritle.com/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://beta.spritle.com/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>https://beta.spritle.com/categories/science/</loc>
+    <loc>/categories/science/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://beta.spritle.com/categories/technology/</loc>
+    <loc>/categories/technology/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://beta.spritle.com/blog/post-1/</loc>
+    <loc>/blog/post-1/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://beta.spritle.com/blog/post-2/</loc>
+    <loc>/blog/post-2/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://beta.spritle.com/blog/post-3/</loc>
+    <loc>/blog/post-3/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://beta.spritle.com/blog/post-4/</loc>
+    <loc>/blog/post-4/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://beta.spritle.com/blog/post-5/</loc>
+    <loc>/blog/post-5/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://beta.spritle.com/blog/post-6/</loc>
+    <loc>/blog/post-6/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://beta.spritle.com/genomics/</loc>
+    <loc>/genomics/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://beta.spritle.com/healthcare/</loc>
+    <loc>/healthcare/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://beta.spritle.com/about_us/</loc>
+    <loc>/about_us/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/genomics/gene_report/</loc>
+    <loc>/genomics/gene_report/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/advisory-council/</loc>
+    <loc>/advisory-council/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/ai-ml-application-development-services/</loc>
+    <loc>/ai-ml-application-development-services/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/ba_cum_dm/</loc>
+    <loc>/career/ba_cum_dm/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/beerboard/</loc>
+    <loc>/beerboard/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/business_analyst/</loc>
+    <loc>/career/business_analyst/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/</loc>
+    <loc>/career/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/changelog/</loc>
+    <loc>/changelog/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/company/</loc>
+    <loc>/company/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/consulting_service/</loc>
+    <loc>/consulting_service/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/design_service/</loc>
+    <loc>/design_service/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/django_fullstack/</loc>
+    <loc>/career/django_fullstack/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/faq/</loc>
+    <loc>/faq/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/products/freshworks/</loc>
+    <loc>/products/freshworks/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/genomics/clinical-information-extraction/</loc>
+    <loc>/genomics/clinical-information-extraction/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/genomics/gene-analysis-summary/</loc>
+    <loc>/genomics/gene-analysis-summary/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/genomics/lifestyle-suggestions/</loc>
+    <loc>/genomics/lifestyle-suggestions/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/genomics/secured-pci-payment-solutions/</loc>
+    <loc>/genomics/secured-pci-payment-solutions/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/genomics/supplement-marketplace/</loc>
+    <loc>/genomics/supplement-marketplace/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/genomics/supplement-recommendations-suggestions/</loc>
+    <loc>/genomics/supplement-recommendations-suggestions/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/healthcare/appointment-booking-automation/</loc>
+    <loc>/healthcare/appointment-booking-automation/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/iot_service/</loc>
+    <loc>/iot_service/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/knowledge_sharing/</loc>
+    <loc>/knowledge_sharing/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/latest_news/</loc>
+    <loc>/latest_news/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/living_matrix/</loc>
+    <loc>/living_matrix/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/machinelearn_service/</loc>
+    <loc>/machinelearn_service/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/products/minoot/</loc>
+    <loc>/products/minoot/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/mobile_service/</loc>
+    <loc>/mobile_service/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/node_js_developer/</loc>
+    <loc>/career/node_js_developer/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/our-innovations/</loc>
+    <loc>/our-innovations/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/process/</loc>
+    <loc>/process/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/work/</loc>
+    <loc>/work/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/pricing-2/</loc>
+    <loc>/pricing-2/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/pricing/</loc>
+    <loc>/pricing/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/privacy_policy/</loc>
+    <loc>/privacy_policy/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/products/</loc>
+    <loc>/products/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/qa_fresher/</loc>
+    <loc>/career/qa_fresher/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/chargebee_rails/</loc>
+    <loc>/chargebee_rails/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/reactjs_developer/</loc>
+    <loc>/career/reactjs_developer/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/reactnative/</loc>
+    <loc>/career/reactnative/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/request-a-demo/</loc>
+    <loc>/request-a-demo/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/resources/</loc>
+    <loc>/resources/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/products/rubygems/</loc>
+    <loc>/products/rubygems/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/ruby_on_rails/</loc>
+    <loc>/career/ruby_on_rails/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/services/</loc>
+    <loc>/services/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/verticals/</loc>
+    <loc>/verticals/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/showdown/</loc>
+    <loc>/showdown/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/softwaretester/</loc>
+    <loc>/career/softwaretester/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/company/culture/spritexchange-sessions/</loc>
+    <loc>/company/culture/spritexchange-sessions/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://beta.spritle.com/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://beta.spritle.com/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>https://beta.spritle.com/team/</loc>
+    <loc>/team/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/terms-conditions/</loc>
+    <loc>/terms-conditions/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/testimonial/</loc>
+    <loc>/testimonial/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/products/voicebot/</loc>
+    <loc>/products/voicebot/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/web_application_development_services/</loc>
+    <loc>/web_application_development_services/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/career/web_developer/</loc>
+    <loc>/career/web_developer/</loc>
   </url><url>
-    <loc>https://beta.spritle.com/products/zoho/</loc>
+    <loc>/products/zoho/</loc>
   </url>
 </urlset>
