@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,57 +14,7 @@
                 href="/"
                 />
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-  </url><url>
-    <loc>/categories/science/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>/categories/technology/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>/blog/post-1/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>/blog/post-2/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>/blog/post-3/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>/blog/post-4/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>/blog/post-5/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>/blog/post-6/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>/genomics/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>/healthcare/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>/about_us/</loc>
-  </url><url>
-    <loc>/genomics/gene_report/</loc>
-  </url><url>
-    <loc>/advisory-council/</loc>
   </url><url>
     <loc>/ai-ml-application-development-services/</loc>
   </url><url>
@@ -76,6 +25,18 @@
     <loc>/career/business_analyst/</loc>
   </url><url>
     <loc>/career/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
   </url><url>
     <loc>/changelog/</loc>
   </url><url>
@@ -92,20 +53,6 @@
     <loc>/faq/</loc>
   </url><url>
     <loc>/products/freshworks/</loc>
-  </url><url>
-    <loc>/genomics/clinical-information-extraction/</loc>
-  </url><url>
-    <loc>/genomics/gene-analysis-summary/</loc>
-  </url><url>
-    <loc>/genomics/lifestyle-suggestions/</loc>
-  </url><url>
-    <loc>/genomics/secured-pci-payment-solutions/</loc>
-  </url><url>
-    <loc>/genomics/supplement-marketplace/</loc>
-  </url><url>
-    <loc>/genomics/supplement-recommendations-suggestions/</loc>
-  </url><url>
-    <loc>/healthcare/appointment-booking-automation/</loc>
   </url><url>
     <loc>/iot_service/</loc>
   </url><url>
