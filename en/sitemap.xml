@@ -38,8 +38,6 @@
                 href="/categories/"
                 />
   </url><url>
-    <loc>/changelog/</loc>
-  </url><url>
     <loc>/company/</loc>
   </url><url>
     <loc>/consulting_service/</loc>
@@ -75,10 +73,6 @@
     <loc>/process/</loc>
   </url><url>
     <loc>/work/</loc>
-  </url><url>
-    <loc>/pricing-2/</loc>
-  </url><url>
-    <loc>/pricing/</loc>
   </url><url>
     <loc>/privacy_policy/</loc>
   </url><url>

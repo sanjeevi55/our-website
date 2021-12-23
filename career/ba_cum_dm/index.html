@@ -663,70 +663,12 @@ materials and copy.</li>
 </ul>
 </div>
         <div class="accordion">
-          <button class="btn btn-primary has-icon mt-30 disable-toggle" data-toggle="collapse" data-target="#job-apply"
-            aria-expanded="false">Apply for Job
-            <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z" fill="currentColor" /></svg>
-            </span>
-          </button>
-          <div id="job-apply" class="collapse disable-toogle">
-            <form method="POST" class="row shadow p-2 p-sm-4 mt-40" action="https://formspree.io/f/xknynkgl">
-              <div class="form-group mb-20 col-md-6">
-                <label class="text-black-200 h6 font-weight-600 mb-2" for="fname">First Name*</label>
-                <input class="form-control shadow-none" 
-                type="text" placeholder="First Name" 
-                id="fname" name="First_Name" required>
-              </div>
-              <div class="form-group mb-20 col-md-6">
-                <label class="text-black-200 h6 font-weight-600 mb-2" for="lname">Last Name*</label>
-                <input class="form-control shadow-none" 
-                type="text" placeholder="Last Name" id="lname"
-                name="Last_Name" required>
-              </div>
-              <div class="form-group mb-20 col-12">
-                <label class="text-black-200 h6 font-weight-600 mb-2" for="email">Email Address*</label>
-                <input class="form-control shadow-none" type="email" placeholder="your-id@email.com"
-                name="Email" id="email" required>
-              </div>
-              <div class="form-group mb-20 col-12">
-                <label class="text-black-200 h6 font-weight-600 mb-2" for="currentCompany">Current Company</label>
-                <input class="form-control shadow-none" type="text" placeholder="Company name" name="Company_name" id="currentCompany">
-              </div>
-              <div class="form-group mb-20 col-12">
-                <label class="text-black-200 h6 font-weight-600 mb-2" for="fileCV">Resume/CV*</label>
-                <input class="form-control shadow-none p-10" type="file" id="fileCV" name="File" required>
-                <small class="font-weight-500">only doc, pdf or docx file allowed and file size will be less than 2MB</small>
-              </div>
-              <div class="form-group mb-20 col-12">
-                <label class="text-black-200 h6 font-weight-600 mb-2" for="message">Have something to say to us?</label>
-                <textarea class="form-control shadow-none" name="comment" rows="3" id="message"></textarea>
-              </div>
-              <div class="form-group col-12">
-                <button class="btn btn-primary w-100" type="submit">Submit Now</button>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-    </main>
-    
-<footer
-  class="bg-light-gray has-shapes has-bg-brash bg-brash-top"
-  style="background-image: url('/images/brushes/footer.svg')"
->
-  <div class="container">
-     
-    <div class="row justify-content-center">
-      <div class="col-lg-7 col-md-12">
-        <div class="text-center pb-60">
-          <h2 class="section-title"><strong>Perfect</strong> from <strong>Beginning to End&hellip;</strong>  kickstarted now</h2>
-            
-          <a href="/contact" class="btn btn-primary has-icon"
-            >Get in touch
+          <button
+            class="btn btn-primary has-icon mt-30 disable-toggle job_apply"
+            data-toggle="collapse"
+            aria-expanded="false"
+          >
+            Apply for Job
             <span class="icon"
               ><svg
                 width="32"
@@ -741,7 +683,77 @@ materials and copy.</li>
                 />
               </svg>
             </span>
-          </a>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<script>
+  window.fwSettings = {
+    widget_id: 82000004922,
+  };
+  !(function () {
+    if ("function" != typeof window.FreshworksWidget) {
+      var n = function () {
+        n.q.push(arguments);
+      };
+      (n.q = []), (window.FreshworksWidget = n);
+    }
+  })();
+</script>
+<script
+  type="text/javascript"
+  src="https://ind-widget.freshworks.com/widgets/82000004922.js"
+  async
+  defer
+></script>
+<script>
+  var button = document.querySelector(".job_apply");
+  button.onclick = function () {
+    FreshworksWidget("open");
+  };
+</script>
+<script>
+  (function () {
+    FreshworksWidget("hide", "launcher");
+  })();
+</script>
+ 
+    </main>
+    
+<footer
+  class="bg-light-gray has-shapes has-bg-brash bg-brash-top"
+  style="background-image: url('/images/brushes/footer.svg')"
+>
+  <div class="container">
+     
+    <div class="row justify-content-center">
+      <div class="col-lg-7 col-md-12">
+        <div class="text-center pb-60">
+          <h2 class="section-title"><strong>Perfect</strong> from <strong>Beginning to End&hellip;</strong>  kickstarted now</h2>
+            
+          <a
+  href="/contact"
+  type="submit"
+  class="btn btn-primary has-icon mt-15"
+  >Get in touch
+  <span class="icon"
+    ><svg
+      width="32"
+      height="32"
+      viewBox="0 0 32 32"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+        fill="currentColor"
+      />
+    </svg>
+  </span>
+</a>
+
            
         </div>
       </div>
