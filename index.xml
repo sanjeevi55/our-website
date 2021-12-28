@@ -89,15 +89,6 @@
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/</guid>
-      <description>How to start with Copper? How can I integrate Copper to my current tool stack?</description>
-    </item>
-    
-    <item>
       <title>Freshwork Apps</title>
       <link>/products/freshworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -179,15 +170,6 @@
     </item>
     
     <item>
-      <title>Our Innovations</title>
-      <link>/our-innovations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/our-innovations/</guid>
-      <description>Accelerating innovations for better Healthcare Solutions &amp;ldquo;Next step to innovation is here!</description>
-    </item>
-    
-    <item>
       <title>Our Process</title>
       <link>/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -252,15 +234,6 @@ Job Description  We are looking for a passionate Software tester who has a natur
     </item>
     
     <item>
-      <title>Request a Demo</title>
-      <link>/request-a-demo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/request-a-demo/</guid>
-      <description>Want to know how it works? Please answer the following questions and we will be right there to assist you &amp;amp; your incredible idea!</description>
-    </item>
-    
-    <item>
       <title>Ruby Gems</title>
       <link>/products/rubygems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -286,15 +259,6 @@ Experience : 3 - 6 years Job Description  We are looking for 3+ years of experie
       
       <guid>/services/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>/verticals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/verticals/</guid>
-      <description>Our Services Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.</description>
     </item>
     
     <item>
@@ -325,30 +289,12 @@ Experience : 3 - 6 years Job Description  We are looking for 3+ years of experie
     </item>
     
     <item>
-      <title>Team</title>
-      <link>/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/team/</guid>
-      <description>Our Team members Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.</description>
-    </item>
-    
-    <item>
       <title>Terms &amp; Conditions</title>
       <link>/terms-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/terms-conditions/</guid>
       <description>GDPR Compliance Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.</description>
-    </item>
-    
-    <item>
-      <title>Testimonials</title>
-      <link>/testimonial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/testimonial/</guid>
-      <description>What Our Client says Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.</description>
     </item>
     
     <item>
