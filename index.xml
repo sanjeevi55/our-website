@@ -71,11 +71,29 @@
     </item>
     
     <item>
+      <title>Custom Software Development</title>
+      <link>/custom_software_development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom_software_development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Design Services</title>
       <link>/design_service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/design_service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Healthcare Services</title>
+      <link>/digital_healthcare_innovations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/digital_healthcare_innovations/</guid>
       <description></description>
     </item>
     
@@ -307,7 +325,7 @@ Experience : 3 - 6 years Job Description  We are looking for 3+ years of experie
     </item>
     
     <item>
-      <title>Web Applications Development</title>
+      <title>Web Application Development</title>
       <link>/web_application_development_services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
