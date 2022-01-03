@@ -8,15 +8,6 @@
     <language>en-us</language>
     <copyright> © {year} Spritle Software. All Rights Reserved.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Us</title>
-      <link>/about_us/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about_us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AI &amp; ML Application Development Services</title>
       <link>/ai-ml-application-development-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -53,6 +44,15 @@
     </item>
     
     <item>
+      <title>Company Overview</title>
+      <link>/about_us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about_us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Consulting Services</title>
       <link>/consulting_service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -71,11 +71,38 @@
     </item>
     
     <item>
-      <title>Custom Software Development</title>
+      <title>Cross Platform Mobile App Development</title>
+      <link>/mobile_service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mobile_service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom built software solutions</title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Software Development Services</title>
       <link>/custom_software_development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/custom_software_development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Web Application Development</title>
+      <link>/web_application_development_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/web_application_development_services/</guid>
       <description></description>
     </item>
     
@@ -89,7 +116,7 @@
     </item>
     
     <item>
-      <title>Digital Healthcare Services</title>
+      <title>Digital Healthcare Solutions</title>
       <link>/digital_healthcare_innovations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -116,6 +143,15 @@
     </item>
     
     <item>
+      <title>Innovative Technology Solutions</title>
+      <link>/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/</guid>
+      <description>Accelerating innovations for better Technology Solutions &amp;ldquo;A Team with a Plan never gives up.</description>
+    </item>
+    
+    <item>
       <title>IoT Services</title>
       <link>/iot_service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -134,7 +170,7 @@
     </item>
     
     <item>
-      <title>Latest News</title>
+      <title>Latest Updates</title>
       <link>/latest_news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -161,24 +197,6 @@
     </item>
     
     <item>
-      <title>Minoot</title>
-      <link>/products/minoot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/products/minoot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile  App Development</title>
-      <link>/mobile_service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/mobile_service/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Node Js Developer</title>
       <link>/career/node_js_developer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -197,21 +215,39 @@
     </item>
     
     <item>
-      <title>Our Works</title>
-      <link>/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/work/</guid>
-      <description>Accelerating innovations for better Technology Solutions &amp;ldquo;A Team with a Plan never gives up.</description>
-    </item>
-    
-    <item>
       <title>Privacy Policy</title>
       <link>/privacy_policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/privacy_policy/</guid>
       <description>This privacy notice discloses the privacy practices for spritle.com. This privacy notice applies solely to information collected by this website.</description>
+    </item>
+    
+    <item>
+      <title>Products-Minoot</title>
+      <link>/products/minoot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/minoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Products-Ruby Gems</title>
+      <link>/products/rubygems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/rubygems/</guid>
+      <description>Ruby Gems built and contributed by us. We actively commit to our GitHub Repository https://github.</description>
+    </item>
+    
+    <item>
+      <title>Products-Zoho Apps</title>
+      <link>/products/zoho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/zoho/</guid>
+      <description>Apps developed by us for Zoho Marketplace </description>
     </item>
     
     <item>
@@ -252,15 +288,6 @@ Job Description  We are looking for a passionate Software tester who has a natur
     </item>
     
     <item>
-      <title>Ruby Gems</title>
-      <link>/products/rubygems/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/products/rubygems/</guid>
-      <description>Ruby Gems built and contributed by us. We actively commit to our GitHub Repository https://github.</description>
-    </item>
-    
-    <item>
       <title>Ruby on Rails Developer-(Experience)</title>
       <link>/career/ruby_on_rails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -268,15 +295,6 @@ Job Description  We are looking for a passionate Software tester who has a natur
       <guid>/career/ruby_on_rails/</guid>
       <description>​
 Experience : 3 - 6 years Job Description  We are looking for 3+ years of experience candidates in Ruby on Rails.</description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>/services/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/services/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -325,15 +343,6 @@ Experience : 3 - 6 years Job Description  We are looking for 3+ years of experie
     </item>
     
     <item>
-      <title>Web Application Development</title>
-      <link>/web_application_development_services/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/web_application_development_services/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Web Developer (Fresher)</title>
       <link>/career/web_developer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -341,15 +350,6 @@ Experience : 3 - 6 years Job Description  We are looking for 3+ years of experie
       <guid>/career/web_developer/</guid>
       <description>Urgently hiring Freshers eligible | 0-1 Years experience preferred
 Must do - Solve the aptitude challenge once applied.</description>
-    </item>
-    
-    <item>
-      <title>Zoho Apps</title>
-      <link>/products/zoho/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/products/zoho/</guid>
-      <description>Apps developed by us for Zoho Marketplace </description>
     </item>
     
   </channel>

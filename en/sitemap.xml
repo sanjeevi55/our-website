@@ -14,8 +14,6 @@
                 href="/"
                 />
   </url><url>
-    <loc>/about_us/</loc>
-  </url><url>
     <loc>/ai-ml-application-development-services/</loc>
   </url><url>
     <loc>/career/ba_cum_dm/</loc>
@@ -40,11 +38,19 @@
   </url><url>
     <loc>/company/</loc>
   </url><url>
+    <loc>/about_us/</loc>
+  </url><url>
     <loc>/consulting_service/</loc>
   </url><url>
     <loc>/contact/</loc>
   </url><url>
+    <loc>/mobile_service/</loc>
+  </url><url>
+    <loc>/services/</loc>
+  </url><url>
     <loc>/custom_software_development/</loc>
+  </url><url>
+    <loc>/web_application_development_services/</loc>
   </url><url>
     <loc>/design_service/</loc>
   </url><url>
@@ -53,6 +59,8 @@
     <loc>/career/django_fullstack/</loc>
   </url><url>
     <loc>/products/freshworks/</loc>
+  </url><url>
+    <loc>/work/</loc>
   </url><url>
     <loc>/iot_service/</loc>
   </url><url>
@@ -64,19 +72,19 @@
   </url><url>
     <loc>/machinelearn_service/</loc>
   </url><url>
-    <loc>/products/minoot/</loc>
-  </url><url>
-    <loc>/mobile_service/</loc>
-  </url><url>
     <loc>/career/node_js_developer/</loc>
   </url><url>
     <loc>/process/</loc>
   </url><url>
-    <loc>/work/</loc>
-  </url><url>
     <loc>/privacy_policy/</loc>
   </url><url>
     <loc>/products/</loc>
+  </url><url>
+    <loc>/products/minoot/</loc>
+  </url><url>
+    <loc>/products/rubygems/</loc>
+  </url><url>
+    <loc>/products/zoho/</loc>
   </url><url>
     <loc>/career/qa_fresher/</loc>
   </url><url>
@@ -88,11 +96,7 @@
   </url><url>
     <loc>/resources/</loc>
   </url><url>
-    <loc>/products/rubygems/</loc>
-  </url><url>
     <loc>/career/ruby_on_rails/</loc>
-  </url><url>
-    <loc>/services/</loc>
   </url><url>
     <loc>/showdown/</loc>
   </url><url>
@@ -116,10 +120,6 @@
   </url><url>
     <loc>/products/voicebot/</loc>
   </url><url>
-    <loc>/web_application_development_services/</loc>
-  </url><url>
     <loc>/career/web_developer/</loc>
-  </url><url>
-    <loc>/products/zoho/</loc>
   </url>
 </urlset>
