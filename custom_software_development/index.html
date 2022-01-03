@@ -1014,7 +1014,83 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
   }
 </style>
- 
+
+
+<style>
+   
+  .modal {
+    display: none;  
+    position: fixed;  
+     
+    left: 0;
+    top: 0;
+    width: 100%;  
+    height: 100%;  
+    overflow: auto;  
+    background-color: rgb(0, 0, 0);  
+    background-color: rgba(0, 0, 0, 0.4);  
+  }
+
+   
+  .modal-content {
+    display: block;
+    background-color: #fefefe;
+    margin: 1% auto;  
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;  
+    height: auto;
+  }
+  @media (min-width: 320px) {
+     
+    .modal-content {
+      width: 100%;
+      margin-bottom: 40px;
+      padding-left: 30px;
+    }
+  }
+  @media (min-width: 480px) {
+     
+    .modal-content {
+      width: 90%;
+    }
+  }
+  @media (min-width: 600px) {
+     
+    .modal-content {
+      width: 60%;
+    }
+  }
+  @media (min-width: 801px) {
+     
+    .modal-content {
+      width: 60%;
+    }
+  }
+  @media (min-width: 1025px) {
+     
+    .modal-content {
+      width: 50%;
+    }
+  }
+  @media (min-width: 1281px) {
+     
+    .modal-content {
+      width: 40%;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", (event) => {
+    var Choose = setTimeout(() => {
+      $("#myModal").modal("show");
+      clearTimeout(Choose);
+    }, 6000);
+  });
+</script>
+
+
     </main>
     
 <footer
@@ -1243,6 +1319,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
+
+
+<script type="text/javascript" src="//www.freeprivacypolicy.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"implied","palette":"dark","language":"en","page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"https://www.spritle.com/","open_preferences_center_selector":"#cookie","website_privacy_policy_url":"https://www.spritle.com/privacy_policy/"});
+});
+</script>
+
+
+
+<script type="text/plain" cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=UA-365428-3"></script>
+<script type="text/plain" cookie-consent="tracking">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-365428-3');
+</script>
+
+
+<noscript>Cookie Consent by <a href="https://www.freeprivacypolicy.com/" rel="nofollow noopener">Free Privacy Policy website</a></noscript>
 
   </body>
   <script defer="defer" type="application/javascript" src="/js/drift.js"> </script>
