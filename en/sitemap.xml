@@ -70,7 +70,7 @@
   </url><url>
     <loc>/latest_news/</loc>
   </url><url>
-    <loc>/living_matrix/</loc>
+    <loc>/lm_services/</loc>
   </url><url>
     <loc>/machinelearn_service/</loc>
   </url><url>
@@ -119,6 +119,10 @@
                 />
   </url><url>
     <loc>/terms-conditions/</loc>
+  </url><url>
+    <loc>/thankyoucontact/</loc>
+  </url><url>
+    <loc>/thankyouenquiry/</loc>
   </url><url>
     <loc>/career/web_developer/</loc>
   </url>

@@ -189,11 +189,11 @@
     
     <item>
       <title>Living Matrix</title>
-      <link>/living_matrix/</link>
+      <link>/lm_services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/living_matrix/</guid>
-      <description>Living Matrix, A project developed by us. We will soon share our experience on the same.</description>
+      <guid>/lm_services/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -334,12 +334,31 @@ Experience : 3 - 6 years Job Description  We are looking for 3+ years of experie
     </item>
     
     <item>
-      <title>Terms &amp; Conditions</title>
+      <title>Terms and conditions</title>
       <link>/terms-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/terms-conditions/</guid>
-      <description>GDPR Compliance Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.</description>
+      <description>Terms and Conditions Welcome to Spritle Software!
+These terms and conditions outline the rules and regulations for the use of Spritle Software&amp;rsquo;s Website, located at www.</description>
+    </item>
+    
+    <item>
+      <title>Thankyou</title>
+      <link>/thankyoucontact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/thankyoucontact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thankyou</title>
+      <link>/thankyouenquiry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/thankyouenquiry/</guid>
+      <description></description>
     </item>
     
     <item>
