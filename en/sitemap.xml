@@ -44,6 +44,8 @@
   </url><url>
     <loc>/contact/</loc>
   </url><url>
+    <loc>/products/voicebot/</loc>
+  </url><url>
     <loc>/mobile_service/</loc>
   </url><url>
     <loc>/services/</loc>
@@ -117,8 +119,6 @@
                 />
   </url><url>
     <loc>/terms-conditions/</loc>
-  </url><url>
-    <loc>/products/voicebot/</loc>
   </url><url>
     <loc>/career/web_developer/</loc>
   </url>
