@@ -35,8 +35,7 @@
                 method="POST"
                 class="rounded shadow p-30"
                 id="request_form"
-                action="{{site.Params.contact_form_action}}"
-                
+                action="https://ecstatic-brahmagupta-5cdf18.netlify.app/.netlify/functions/sendmail/sendmail"
               >
                 <div class="form-row">
                   <div class="form-group mb-30 col-md-6">
@@ -44,7 +43,7 @@
                     <input
                       class="form-control shadow-none"
                       type="text"
-                      name="fname"
+                      name="Name"
                       placeholder="Name*"
                       id="fname"
                       required
@@ -55,7 +54,8 @@
                     <input
                       class="form-control shadow-none"
                       type="text"
-                      name="company_name"
+                      name="Company_Name"
+                      id="company"
                       placeholder="Company name*"
                       required
                     />
@@ -67,7 +67,7 @@
                     <input
                       class="form-control shadow-none"
                       type="email"
-                      name="email_address"
+                      name="Email"
                       placeholder="Email address*"
                       id="email"
                       required
@@ -78,7 +78,8 @@
                     <input
                       class="form-control shadow-none acceptnumber"
                       type="tel"
-                      name="phone_number"
+                      name="Phone_Number"
+                      id="phone"
                       placeholder="Phone number*"
                       required
                     />
@@ -102,14 +103,15 @@
                     data-callback="enableSubmit"
                   ></div>
                 </div>
-            
-                <a
-          href="{{ .link | absLangURL }}"
-          type="submit"
-          class="btn btn-primary btn-submit w-100" style="width:100">
-          {{ i18n "submit"}}
-        </a>
-                      
+
+                <button
+                  type="submit"
+                  value="submit"
+                  class="btn btn-primary btn-submit w-100"
+                  style="width: 100"
+                >
+                  {{ i18n "submit"}}
+                </button>
               </form>
             </div>
             <div
@@ -186,10 +188,47 @@
     }
   }
 </style>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script type="text/javascript">
+  var frm = $("#request_form");
 
-<script>
-  function myFunction() {
-    location.replace("thankyouenquiry")
-  }
-  </script>
-  
+  frm.submit(function (e) {
+    e.preventDefault();
+    console.log("--------");
+    var data = frm.serializeArray();
+    model = {
+      Name: $("#fnames").val(),
+      Company_Name: $("#company").val(),
+      Email: $("#email").val(),
+      Phone_Number: $("#phone").val(),
+      comment: $("#message").val(),
+    };
+
+    $.ajax({
+      type: frm.attr("method"),
+      url: frm.attr("action"),
+      cors: true,
+      secure: true,
+      headers: {
+        "Access-Control-Allow-Origin": "*",
+      },
+      beforeSend: function (xhr) {
+        xhr.setRequestHeader("Authorization", "Basic " + btoa(""));
+      },
+      crossDomain: true,
+      format: "json",
+      dataType: "json",
+      contentType: "application/json;charset=utf-8",
+      data: JSON.stringify(model),
+      success: function (data) {
+        console.log("Submission was successful.");
+        console.log(data);
+      },
+      error: function (data) {
+        console.log("An error occurred.");
+        console.log(data);
+      },
+    });
+    return false;
+  });
+</script>
